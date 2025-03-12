@@ -1,2 +1,0 @@
-# pract-git
-pract-git
