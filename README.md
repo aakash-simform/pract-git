@@ -67,7 +67,7 @@ Make sure you have the following installed on your machine:
 
 1. In a new terminal, navigate to the `trainee_frontend` directory and run:
     ```bash
-    npm start
+    npm run dev
     ```
     The frontend will be running on [http://localhost:5173](http://localhost:5173) by default.
 
